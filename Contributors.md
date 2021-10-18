@@ -1,1 +1,1 @@
-- (Ankit Gupta)[https://github.com/luckyhero613]
+- [Ankit Gupta](https://github.com/luckyhero613)
